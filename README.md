@@ -3,7 +3,10 @@ Es una simple landing page hecha con react
 
 ![pantallazo app](./capturas/landingpage.jpg)
 
-# Guía instalacion del repositorio en local
+## Guía instalacion del repositorio en local
+## Requisitos minimos 
+- Tener git, node
+## Pasos
 1. Hacer un fork y/o clonar la app ![repo](https://github.com/canodelacuadra/landing-page-react.git)
 ![fork](./capturas/fork.jpg)
 
